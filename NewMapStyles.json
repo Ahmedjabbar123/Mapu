@@ -34,8 +34,7 @@
     {
       "id": "background",
       "type": "background",
-      "minzoom": 0,
-      "maxzoom": 0,
+   
       "layout": {"visibility": "visible"},
       "paint": {"background-color": "rgba(221, 221, 221, 1)"}
     },
