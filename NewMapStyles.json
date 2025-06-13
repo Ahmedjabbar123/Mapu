@@ -34,7 +34,6 @@
     {
       "id": "background",
       "type": "background",
-   
       "layout": {"visibility": "visible"},
       "paint": {"background-color": "rgba(221, 221, 221, 1)"}
     },
